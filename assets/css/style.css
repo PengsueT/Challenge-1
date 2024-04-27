@@ -111,11 +111,11 @@ p {
     color: #ffffff;
 }
 
-.content img {
+.content-item img {
     max-height: 200px;
 }
 
-.content h2 {
+.content-item h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
