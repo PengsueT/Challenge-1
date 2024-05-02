@@ -1,4 +1,4 @@
-# Challenge-1
+# HoriseonSSS
 
 ## Description
 
@@ -15,3 +15,5 @@ My motivation behind this whole assignment was to learn how to refactor code and
 
 ## Links
 [GithubRepoLink](https://github.com/PengsueT/Challenge-1.git)
+
+[GithubChallengeDeploy](https://pengsuet.github.io/HoriseonSSS/)
